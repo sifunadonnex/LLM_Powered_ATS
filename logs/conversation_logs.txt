@@ -1,0 +1,240 @@
+User    : 
+    Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+    At least 6+ years of relevant experience as a Machine Learning Engineer
+    Prolific experience working with Machine Learning and Computer Vision
+    In-depth knowledge of Speech Recognition and experience building PoCs
+    Prior experience building ML algorithms from scratch
+    Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+    Some experience driving PoCs to full product is desirable
+    Nice to have some experience defining product architecture, roadmap, team building, etc.
+    Prior experience working with startups or small teams
+    Excellent spoken and written English communication skills
+ATS  : This error occurred: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    :     Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+    At least 6+ years of relevant experience as a Machine Learning Engineer
+    Prolific experience working with Machine Learning and Computer Vision
+    In-depth knowledge of Speech Recognition and experience building PoCs
+    Prior experience building ML algorithms from scratch
+    Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+    Some experience driving PoCs to full product is desirable
+    Nice to have some experience defining product architecture, roadmap, team building, etc.
+    Prior experience working with startups or small teams
+    Excellent spoken and written English communication skills
+ATS  : This error occurred: 'PdfReader' object has no attribute 'num_pages' 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    :     Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+    At least 6+ years of relevant experience as a Machine Learning Engineer
+    Prolific experience working with Machine Learning and Computer Vision
+    In-depth knowledge of Speech Recognition and experience building PoCs
+    Prior experience building ML algorithms from scratch
+    Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+    Some experience driving PoCs to full product is desirable
+    Nice to have some experience defining product architecture, roadmap, team building, etc.
+    Prior experience working with startups or small teams
+    Excellent spoken and written English communication skills
+ATS  : This error occurred: reader.numPages is deprecated and was removed in PyPDF2 3.0.0. Use len(reader.pages) instead. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    :     Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+    At least 6+ years of relevant experience as a Machine Learning Engineer
+    Prolific experience working with Machine Learning and Computer Vision
+    In-depth knowledge of Speech Recognition and experience building PoCs
+    Prior experience building ML algorithms from scratch
+    Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+    Some experience driving PoCs to full product is desirable
+    Nice to have some experience defining product architecture, roadmap, team building, etc.
+    Prior experience working with startups or small teams
+    Excellent spoken and written English communication skills
+ATS  : This error occurred: reader.getPage(pageNumber) is deprecated and was removed in PyPDF2 3.0.0. Use reader.pages[page_number] instead. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    :     Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+    At least 6+ years of relevant experience as a Machine Learning Engineer
+    Prolific experience working with Machine Learning and Computer Vision
+    In-depth knowledge of Speech Recognition and experience building PoCs
+    Prior experience building ML algorithms from scratch
+    Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+    Some experience driving PoCs to full product is desirable
+    Nice to have some experience defining product architecture, roadmap, team building, etc.
+    Prior experience working with startups or small teams
+    Excellent spoken and written English communication skills
+ATS  : This error occurred: extractText is deprecated and was removed in PyPDF2 3.0.0. Use extract_text instead. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    :     Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+    At least 6+ years of relevant experience as a Machine Learning Engineer
+    Prolific experience working with Machine Learning and Computer Vision
+    In-depth knowledge of Speech Recognition and experience building PoCs
+    Prior experience building ML algorithms from scratch
+    Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+    Some experience driving PoCs to full product is desirable
+    Nice to have some experience defining product architecture, roadmap, team building, etc.
+    Prior experience working with startups or small teams
+    Excellent spoken and written English communication skills
+ATS  : This error occurred: extractText is deprecated and was removed in PyPDF2 3.0.0. Use extract_text instead. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    :     Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+    At least 6+ years of relevant experience as a Machine Learning Engineer
+    Prolific experience working with Machine Learning and Computer Vision
+    In-depth knowledge of Speech Recognition and experience building PoCs
+    Prior experience building ML algorithms from scratch
+    Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+    Some experience driving PoCs to full product is desirable
+    Nice to have some experience defining product architecture, roadmap, team building, etc.
+    Prior experience working with startups or small teams
+    Excellent spoken and written English communication skills
+ATS  : Done with the ranking, view the Output folder for the results 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    : Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 6+ years of relevant experience as a Machine Learning Engineer
+Prolific experience working with Machine Learning and Computer Vision
+In-depth knowledge of Speech Recognition and experience building PoCs
+Prior experience building ML algorithms from scratch
+Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+Some experience driving PoCs to full product is desirable
+Nice to have some experience defining product architecture, roadmap, team building, etc.
+Prior experience working with startups or small teams
+Excellent spoken and written English communication skills
+ATS  : Done with the ranking, view the Output folder for the results 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    : 
+    Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+    At least 6+ years of relevant experience as a Machine Learning Engineer
+    Prolific experience working with Machine Learning and Computer Vision
+    In-depth knowledge of Speech Recognition and experience building PoCs
+    Prior experience building ML algorithms from scratch
+    Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+    Some experience driving PoCs to full product is desirable
+    Nice to have some experience defining product architecture, roadmap, team building, etc.
+    Prior experience working with startups or small teams
+    Excellent spoken and written English communication skills
+ATS  : Done with the ranking, view the Output folder for the results 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    : Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 6+ years of relevant experience as a Machine Learning Engineer
+Prolific experience working with Machine Learning and Computer Vision
+In-depth knowledge of Speech Recognition and experience building PoCs
+Prior experience building ML algorithms from scratch
+Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+Some experience driving PoCs to full product is desirable
+Nice to have some experience defining product architecture, roadmap, team building, etc.
+Prior experience working with startups or small teams
+Excellent spoken and written English communication skills
+ATS  : Done with the ranking, view the Output folder for the results 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    : Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 6+ years of relevant experience as a Machine Learning Engineer
+Prolific experience working with Machine Learning and Computer Vision
+In-depth knowledge of Speech Recognition and experience building PoCs
+Prior experience building ML algorithms from scratch
+Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+Some experience driving PoCs to full product is desirable
+Nice to have some experience defining product architecture, roadmap, team building, etc.
+Prior experience working with startups or small teams
+Excellent spoken and written English communication skills
+ATS  : Done with the ranking, view the Output folder for the results 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    : Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 6+ years of relevant experience as a Machine Learning Engineer
+Prolific experience working with Machine Learning and Computer Vision
+In-depth knowledge of Speech Recognition and experience building PoCs
+Prior experience building ML algorithms from scratch
+Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+Some experience driving PoCs to full product is desirable
+Nice to have some experience defining product architecture, roadmap, team building, etc.
+Prior experience working with startups or small teams
+Excellent spoken and written English communication skills
+ATS  : Done with the ranking, view the Output folder for the results 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    : Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 6+ years of relevant experience as a Machine Learning Engineer
+Prolific experience working with Machine Learning and Computer Vision
+In-depth knowledge of Speech Recognition and experience building PoCs
+Prior experience building ML algorithms from scratch
+Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+Some experience driving PoCs to full product is desirable
+Nice to have some experience defining product architecture, roadmap, team building, etc.
+Prior experience working with startups or small teams
+Excellent spoken and written English communication skills
+ATS  : Done with the ranking, view the Output folder for the results 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    : Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 6+ years of relevant experience as a Machine Learning Engineer
+Prolific experience working with Machine Learning and Computer Vision
+In-depth knowledge of Speech Recognition and experience building PoCs
+Prior experience building ML algorithms from scratch
+Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+Some experience driving PoCs to full product is desirable
+Nice to have some experience defining product architecture, roadmap, team building, etc.
+Prior experience working with startups or small teams
+Excellent spoken and written English communication skills
+ATS  : Done with the ranking, view the Output folder for the results 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    :     Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+    At least 6+ years of relevant experience as a Machine Learning Engineer
+    Prolific experience working with Machine Learning and Computer Vision
+    In-depth knowledge of Speech Recognition and experience building PoCs
+    Prior experience building ML algorithms from scratch
+    Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+    Some experience driving PoCs to full product is desirable
+    Nice to have some experience defining product architecture, roadmap, team building, etc.
+    Prior experience working with startups or small teams
+    Excellent spoken and written English communication skills
+ATS  : Done with the ranking, view the Output folder for the results 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    :     Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+    At least 6+ years of relevant experience as a Machine Learning Engineer
+    Prolific experience working with Machine Learning and Computer Vision
+    In-depth knowledge of Speech Recognition and experience building PoCs
+    Prior experience building ML algorithms from scratch
+    Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+    Some experience driving PoCs to full product is desirable
+    Nice to have some experience defining product architecture, roadmap, team building, etc.
+    Prior experience working with startups or small teams
+    Excellent spoken and written English communication skills
+ATS  : Done with the ranking, view the Output folder for the results 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User    :     Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+    At least 6+ years of relevant experience as a Machine Learning Engineer
+    Prolific experience working with Machine Learning and Computer Vision
+    In-depth knowledge of Speech Recognition and experience building PoCs
+    Prior experience building ML algorithms from scratch
+    Familiarity working in the healthcare industry or with health-related data (images, speech recognition, etc.)
+    Some experience driving PoCs to full product is desirable
+    Nice to have some experience defining product architecture, roadmap, team building, etc.
+    Prior experience working with startups or small teams
+    Excellent spoken and written English communication skills
+ATS  : Done with the ranking, view the Output folder for the results 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
